@@ -22,7 +22,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [Boggle Game Solver](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing)
   * Recursive Function
   * Backtracking
-* [Huffman Encoding]
+* Huffman Encoding
   * Data Structures (Linked List, Tree)
   * Binary Tree Search
   * Priority Queue
