@@ -11,7 +11,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Python semantics & syntax
 * [My Photoshop](https://drive.google.com/file/d/15njGxR2sIMNQ4ClMTGww27taTkEDm9o7/view?usp=sharing)
   * Image processing
-* [Pedastrian Removing Application](https://drive.google.com/file/d/1BMOBX9Eb5QkP5gfB4GcUWVEbEOaWmAhI/view?usp=sharing)
+* [Pedestrian Removing Application](https://drive.google.com/file/d/1BMOBX9Eb5QkP5gfB4GcUWVEbEOaWmAhI/view?usp=sharing)
   * Image processing
 * [Breakout Games](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing)
   * Animation & Game designing
